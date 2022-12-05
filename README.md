@@ -7,6 +7,8 @@
 - 🌱 I am currently studying IT Development and Testing at GaekBrians Online University
 - 👉 In the future I will start learning QA testing
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Knock+Knock,+student)](https://git.io/typing-svg)
+
 <!---
 alexkor96/alexkor96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
