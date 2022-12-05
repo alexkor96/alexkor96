@@ -4,7 +4,7 @@
 
 
 - 👀 I’m interested in python & C# development 
-- 🌱 I am currently studying IT Development and Testing at GaekBrians Online University
+- 🌱 I am currently studying IT Development and QA Testing at GaekBrians Online University
 - 👉 In the future I will start learning QA testing
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Knock+Knock,+student)](https://git.io/typing-svg)
