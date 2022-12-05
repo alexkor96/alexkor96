@@ -13,6 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkor96&layout=compact)](https://github.com/alexkor96/github-readme-stats)
 
+## developers mood:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <!---
 alexkor96/alexkor96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
